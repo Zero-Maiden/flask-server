@@ -4,7 +4,7 @@ This is a back-end server made in [Flask](https://github.com/pallets/flask) for 
 
 <br>
 
-<h1>Requirements</h1>
+## Requirements
 
 * Web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, etc.)
 * Windows, Linux or macOS
