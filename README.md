@@ -1,28 +1,34 @@
 <h1>flask-server</h1>
 
-A back-end for [nextjs-auth](https://github.com/Zero-Maiden/nextjs-auth).
+This is a back-end server made in [Flask](https://github.com/pallets/flask) for [Zero-Maiden/nextjs-auth](https://github.com/Zero-Maiden/nextjs-auth).
 
 <br>
 
 <h1>Requirements</h1>
 
-* Web browser (Google Chrome, Microsoft Edge, Mozilla Firefox)
+* Web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, etc.)
 * Windows, Linux or macOS
 * Python (version 3 or later if possible). You can download Python [here](https://www.python.org/downloads/).
 
 <br>
 
-<h1>How to use</h1>
+## How to use
 
-```
-# Clone this repo
+1. Clone the repository:
+```bash
 $ git clone https://github.com/Zero-Maiden/flask-server.git
 ```
-```
-# Go into the repository
+
+<br>
+
+2. Go into the repository directory:
+```bash
 $ cd flask-server
 ```
-```
-# Run app.py
+
+<br>
+
+3. Run the project:
+```bash
 $ python app.py
 ```
